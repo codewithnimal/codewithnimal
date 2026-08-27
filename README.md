@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Nimal%20V&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineering%20and%20Data%20Science%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nimal%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20and%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer+in+the+Making;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+React;B.Tech+AI+%26+Data+Science+%402028;Building+RESTful+APIs+%26+Data-Driven+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+in+the+Making;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+React;B.Tech+AI+%26+Data+Science+%402028;Building+RESTful+APIs+%26+Data-Driven+Apps" alt="Typing SVG" />
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🚀 About Me
 
@@ -14,30 +18,35 @@
 const nimal = {
     name: "Nimal V",
     location: "Coimbatore, Tamil Nadu, India",
-    degree: "B.Tech, AI & Data Science (Expected 2028)",
-    college: "V.S.B. College of Engineering Technical Campus",
+    degree: "B.Tech, AI & Data Science (2028)",
+    college: "V.S.B. College of Engg. Tech. Campus",
     cgpa: 8.28,
 
     stack: {
         languages: ["Java", "Python", "JavaScript"],
-        backend: ["Spring Boot", "FastAPI", "RESTful APIs"],
+        backend: ["Spring Boot", "FastAPI", "REST APIs"],
         frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
         databases: ["MySQL"],
         dataAnalytics: ["NumPy", "Pandas"]
     },
 
-    currentlyLearning: ["FastAPI", "React", "Full-Stack Architecture"],
+    currentlyLearning: [
+        "FastAPI", "React", "Full-Stack Arch."
+    ],
 
-    funFact: "Once architected a full-stack travel app before " +
-             "finishing his second year of college 🗺️",
+    funFact: "Built a full-stack travel app in 2nd year",
 
-    motto: function () {
-        return "Build it scalable. Build it clean. Ship it anyway.";
-    }
+    motto: () =>
+        "Build it scalable. Build it clean. Ship it."
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,37 +54,37 @@ const nimal = {
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 **Frameworks & APIs**
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 **Databases**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **Data & Analytics**
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
 ---
@@ -84,19 +93,19 @@ const nimal = {
 
 <div align="center">
   <a href="https://github.com/codewithnimal">
-    <img src="https://github-readme-stats.vercel.app/api?username=codewithnimal&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithnimal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="49%"/>
   </a>
   <a href="https://github.com/codewithnimal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnimal&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" width="38%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnimal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="38%"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithnimal&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=codewithnimal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithnimal&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithnimal&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -171,6 +180,6 @@ const nimal = {
 
 📫 **Reach me:** [nimalvalakutti2006@gmail.com](mailto:nimalvalakutti2006@gmail.com) · [LinkedIn](https://linkedin.com/in/nimal-valakutti-32966033b)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
