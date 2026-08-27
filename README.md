@@ -42,8 +42,8 @@ const nimal = {
 ```
 
 </td>
-<td width="40%" valign="top">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<td width="40%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%"/>
 </td>
 </tr>
 </table>
