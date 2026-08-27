@@ -14,32 +14,17 @@
 
 ### 🚀 About Me
 
-```javascript
-const nimal = {
-    name: "Nimal V",
-    location: "Coimbatore, Tamil Nadu, India",
-    degree: "B.Tech, AI & Data Science (2028)",
-    college: "V.S.B. College of Engg. Tech. Campus",
-    cgpa: 8.28,
+Hi, I'm **Nimal V** 👋 — based in Coimbatore, Tamil Nadu, India.
 
-    stack: {
-        languages: ["Java", "Python", "JavaScript"],
-        backend: ["Spring Boot", "FastAPI", "REST APIs"],
-        frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-        databases: ["MySQL"],
-        dataAnalytics: ["NumPy", "Pandas"]
-    },
+I'm currently pursuing a **B.Tech in AI & Data Science** at V.S.B. College of Engineering Technical Campus (expected 2028), maintaining a CGPA of **8.28**.
 
-    currentlyLearning: [
-        "FastAPI", "React", "Full-Stack Arch."
-    ],
+I work across the full stack — building backends with **Java, Spring Boot, and FastAPI**, and frontends with **React, HTML5, CSS3, and Bootstrap**, backed by **MySQL** databases. On the data side, I use **NumPy and Pandas** for analysis.
 
-    funFact: "Built a full-stack travel app in 2nd year",
+Right now, I'm sharpening my skills in **FastAPI, React, and full-stack architecture**.
 
-    motto: () =>
-        "Build it scalable. Build it clean. Ship it."
-};
-```
+🗺️ **Fun fact:** I architected a full-stack travel app before finishing my second year of college.
+
+💡 **My motto:** *Build it scalable. Build it clean. Ship it anyway.*
 
 </td>
 <td width="40%" valign="middle" align="center">
